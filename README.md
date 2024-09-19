@@ -1,4 +1,8 @@
 ## Hi there 👋
+Hi, I am Chethan B R
+I graduated from Malnad College of Engineering, Hassan, Karnataka.
+I have finished my AWS & Devops Course and am looking for the opportunity to upskill my knowledge.
+
 
 <!--
 **chethanbrp/chethanbrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

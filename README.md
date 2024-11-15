@@ -1,8 +1,5 @@
 ## Hi there 👋
-Hi, I am Chethan B R
-I graduated from Malnad College of Engineering, Hassan, Karnataka.
-I have finished my AWS & Devops Course and am looking for the opportunity to upskill my knowledge.
-
+Results-driven Trainee DevOps Engineer with over 9 months of experience designing, implementing, and maintaining scalable infrastructure and CI/CD pipelines. Proficient in cloud technologies, configuration management, containerization, and automation tools. I am seeking a challenging role to leverage my expertise in optimizing deployment processes, enhancing system performance, and driving continuous integration and delivery.
 
 <!--
 **chethanbrp/chethanbrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

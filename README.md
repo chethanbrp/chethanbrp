@@ -26,7 +26,7 @@ Results-driven Cloud and DevOps Engineer with over 1.6 years of experience desig
    You can get the complete detailes here: https://github.com/chethanbrp/3-Tier-Architecture
 
 ### 3. Create Three-Tier VPC Architecture and Deployment of HMS and Dairy applicationwith proper backend integration
-   You can get the complete detailes here: https://github.com/chethanbrp/Three-Tier_Architecture_Deployment
+   You can get the complete detailes here: https://github.com/chethanbrp/Three-Tier_Architecture_Deployment/tree/master
 
 **🌐 Portfolio Highlights**
 

@@ -2,8 +2,8 @@
 Results-driven Cloud and DevOps Engineer with over 1.6 years of experience designing, implementing, and maintaining scalable infrastructure and CI/CD pipelines. Proficient in cloud technologies, configuration management, containerization, and automation tools. I am seeking a challenging role to leverage my expertise in optimizing deployment processes, enhancing system performance, and driving continuous integration and delivery.
 
 # 🛠️ Technologies & Tools
-<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/c43c2817-4a47-45c6-91a6-2831b8a2e9fc" />
-<img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/a97ce3f5-18b9-4479-907c-a916194567c5" />
+<img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/c43c2817-4a47-45c6-91a6-2831b8a2e9fc" />
+<img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/a97ce3f5-18b9-4479-907c-a916194567c5" />
 
 
 

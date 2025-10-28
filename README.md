@@ -6,12 +6,12 @@ Results-driven Cloud and DevOps Engineer with over 1.6 years of experience desig
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/c43c2817-4a47-45c6-91a6-2831b8a2e9fc" />
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/a97ce3f5-18b9-4479-907c-a916194567c5" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/28e7e987-9307-48d0-ab09-e0e96ab698a2" />
-<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/d10f9e95-5224-4611-9609-cb19e6de89e3" />
-<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/4e13a0e3-5e9b-4a54-bdfd-fcd01d5e1037" />
+<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/d10f9e95-5224-4611-9609-cb19e6de89e3" />
+<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/4e13a0e3-5e9b-4a54-bdfd-fcd01d5e1037" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/e4831ac9-bca5-4a9f-a3aa-451c02bc447e" />
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/e0e075e9-0dad-4801-8f9f-5d933fdba2ab" />
-<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/ee700378-1247-4a9c-b768-a1c5ba75bcb2" />
-<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/37b07bad-d031-4aa3-aa50-cb2c23605b29" />
+<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/ee700378-1247-4a9c-b768-a1c5ba75bcb2" />
+<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/37b07bad-d031-4aa3-aa50-cb2c23605b29" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/96248c2e-3758-4662-8ba7-d62d10f7f54e" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/e44565bd-5a62-43de-aee6-edc761cf951d" />
 

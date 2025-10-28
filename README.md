@@ -11,6 +11,7 @@ Results-driven Cloud and DevOps Engineer with over 1.6 years of experience desig
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/e0e075e9-0dad-4801-8f9f-5d933fdba2ab" />
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/ee700378-1247-4a9c-b768-a1c5ba75bcb2" />
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/37b07bad-d031-4aa3-aa50-cb2c23605b29" />
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/96248c2e-3758-4662-8ba7-d62d10f7f54e" />
 
 
 

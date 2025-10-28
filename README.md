@@ -13,7 +13,7 @@ Results-driven Cloud and DevOps Engineer with over 1.6 years of experience desig
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/ee700378-1247-4a9c-b768-a1c5ba75bcb2" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/37b07bad-d031-4aa3-aa50-cb2c23605b29" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/96248c2e-3758-4662-8ba7-d62d10f7f54e" />
-<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/e44565bd-5a62-43de-aee6-edc761cf951d" />
+<img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/b34da061-a878-4c83-ad97-cf16d67f7d8f" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/71e6b9da-6fa8-4dc6-bc8a-77a40c56e906" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/8b63216c-b81c-4d7f-86fd-ed71d433ee5b" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/99fdeb95-6526-4da5-95ce-7f2b2233f9d9" />

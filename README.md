@@ -18,6 +18,9 @@ Results-driven Cloud and DevOps Engineer with over 1.6 years of experience desig
 
 
 # 📝 Projects
+### 1. Deployment of the Django web application using both Docker and Kubernates
+
+   You can get the complete detailes here: https://github.com/chethanbrp/django-notes-app  
 
 **🌐 Portfolio Highlights**
 

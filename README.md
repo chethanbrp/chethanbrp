@@ -1,7 +1,8 @@
 # Hi there, I'm CHETHAN B R 👋 
 I'm a Cloud & DevOps Engineer passionate about automating infrastructure, building CI/CD pipelines, and managing scalable AWS architectures.
 
-/*
+<!--hi chethan -->
+"""
 # 🛠️ Technologies & Tools
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/af9e4309-8944-4f08-954a-334b9f1b28e9" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/c43c2817-4a47-45c6-91a6-2831b8a2e9fc" />
@@ -19,7 +20,7 @@ I'm a Cloud & DevOps Engineer passionate about automating infrastructure, buildi
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/0d67311a-120d-4c9c-9dad-82f03def383a" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/8b63216c-b81c-4d7f-86fd-ed71d433ee5b" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/99fdeb95-6526-4da5-95ce-7f2b2233f9d9" />
-*/
+"""
 
 # 🛠️ Technologies & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)

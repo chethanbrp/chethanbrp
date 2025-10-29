@@ -1,5 +1,6 @@
-# Hi there, I'm CHETHAN B R 👋
-Results-driven Cloud and DevOps Engineer with over 1.6 years of experience designing, implementing, and maintaining scalable infrastructure and CI/CD pipelines. Proficient in cloud technologies, configuration management, containerization, and automation tools. I am seeking a challenging role to leverage my expertise in optimizing deployment processes, enhancing system performance, and driving continuous integration and delivery.
+# Hi there, I'm CHETHAN B R 👋 
+I'm a Cloud & DevOps Engineer passionate about automating infrastructure, building CI/CD pipelines, and managing scalable AWS architectures.
+
 
 # 🛠️ Technologies & Tools
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/af9e4309-8944-4f08-954a-334b9f1b28e9" />

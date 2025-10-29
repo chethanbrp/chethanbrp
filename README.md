@@ -1,7 +1,7 @@
 # Hi there, I'm CHETHAN B R 👋 
 I'm a Cloud & DevOps Engineer passionate about automating infrastructure, building CI/CD pipelines, and managing scalable AWS architectures.
 
-
+/*
 # 🛠️ Technologies & Tools
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/af9e4309-8944-4f08-954a-334b9f1b28e9" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/c43c2817-4a47-45c6-91a6-2831b8a2e9fc" />
@@ -19,9 +19,9 @@ I'm a Cloud & DevOps Engineer passionate about automating infrastructure, buildi
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/0d67311a-120d-4c9c-9dad-82f03def383a" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/8b63216c-b81c-4d7f-86fd-ed71d433ee5b" />
 <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/99fdeb95-6526-4da5-95ce-7f2b2233f9d9" />
+*/
 
-
-### 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -34,7 +34,9 @@ I'm a Cloud & DevOps Engineer passionate about automating infrastructure, buildi
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node%20Exporter-000000?style=for-the-badge&logo=prometheus&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

@@ -57,7 +57,8 @@ I'm a Cloud & DevOps Engineer passionate about automating infrastructure, buildi
 ### 3. Create Three-Tier VPC Architecture and Deployment of HMS and Dairy applicationwith proper backend integration
    You can get the complete detailes here: https://github.com/chethanbrp/Three-Tier_Architecture_Deployment/tree/master
 
-**🌐 Portfolio Highlights**
+
+# **🌐 Portfolio Highlights**
 
 
 # 📫 Let's Connect

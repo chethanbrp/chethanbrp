@@ -1,5 +1,5 @@
 # Hi there, I'm CHETHAN B R 👋 
-🚀 Cloud & DevOps Engineer | Passionate about SRE and DevSecOps Practices
+### 🚀 Cloud & DevOps Engineer | Passionate about SRE and DevSecOps Practices
 I'm a Cloud & DevOps Engineer passionate about automating infrastructure, building CI/CD pipelines, and managing scalable AWS architectures.
 
 <!--

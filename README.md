@@ -60,7 +60,7 @@ I am Cloud & DevOps Engineer with hands-on experience in AWS, Terraform, and Clo
 
 # **🌐 Portfolio Highlights**
 
-- **👉 Let's Connect 👈**
+**👉 Let's Connect 👈**
 
 **"I’m passionate about transforming ideas into scalable Cloud and DevOps solutions — let’s connect and make it happen!"**
 

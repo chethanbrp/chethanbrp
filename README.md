@@ -49,13 +49,13 @@ I am Cloud & DevOps Engineer with hands-on experience in AWS, Terraform, and Clo
 # 📝 Projects
 ### 1. Deployment of the Django web application using both Docker and Kubernates
 
-   You can get the complete detailes here: https://github.com/chethanbrp/django-notes-app  
+   link: https://github.com/chethanbrp/django-notes-app  
 
 ### 2. Implimentation of Three-Tier-Architecture using Terraform
-   You can get the complete detailes here: https://github.com/chethanbrp/3-Tier-Architecture
+   link: https://github.com/chethanbrp/3-Tier-Architecture
 
 ### 3. Create Three-Tier VPC Architecture and Deployment of HMS and Dairy applicationwith proper backend integration
-   You can get the complete detailes here: https://github.com/chethanbrp/Three-Tier_Architecture_Deployment/tree/master
+   link: https://github.com/chethanbrp/Three-Tier_Architecture_Deployment/tree/master
 
 
 # **🌐 Portfolio Highlights**

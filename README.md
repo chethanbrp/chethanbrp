@@ -64,8 +64,7 @@ I'm a Cloud & DevOps Engineer passionate about automating infrastructure, buildi
 # 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethanbrp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethanbrp98@gmail.com)
-[![Call Me](https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+919483007793)
-[![Message Me on WhatsApp](https://img.shields.io/badge/WhatsApp_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919483007793)
+[![Message Me Here](https://img.shields.io/badge/WhatsApp_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919483007793)
 
 
 # 

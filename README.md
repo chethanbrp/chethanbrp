@@ -1,6 +1,6 @@
 # Hi there, I'm CHETHAN B R 👋 
 ### 🚀 AWS & DevOps Engineer | Cloud Architect | Passionate about SRE and DevSecOps Practices
-I'm a Cloud & DevOps Engineer passionate about automating infrastructure, building CI/CD pipelines, and managing scalable AWS architectures.
+I am Cloud & DevOps Engineer with hands-on experience in AWS, Terraform, and CloudFormation. Skilled in building CI/CD pipelines, containerized applications with Docker & Kubernetes, and automating scalable, reliable, and secure cloud infrastructures.
 
 <!--
 # 🛠️ Technologies & Tools

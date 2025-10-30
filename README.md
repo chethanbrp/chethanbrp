@@ -46,7 +46,7 @@ I am Cloud & DevOps Engineer with hands-on experience in AWS, Terraform, and Clo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📝 Projects
+# 📝 🌐 Projects
 ### 1. Deployment of the Django web application using both Docker and Kubernates
 
    link: https://github.com/chethanbrp/django-notes-app  

@@ -62,7 +62,7 @@ I am Cloud & DevOps Engineer with hands-on experience in AWS, Terraform, and Clo
 
 - **👉 Let's Connect 👈**
 
-- "I’m passionate about transforming ideas into scalable Cloud and DevOps solutions — let’s connect and make it happen!"
+**"I’m passionate about transforming ideas into scalable Cloud and DevOps solutions — let’s connect and make it happen!"**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethanbrp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethanbrp98@gmail.com)
